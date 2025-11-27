@@ -1,6 +1,9 @@
+# !!!Vibe code for hackathon!!!
+
 # 42Prague Škoda Auto Hackathon
 
-> Welcome! This is the main repository for submitting your team's solution for the Škoda Auto Hackathon at 42Prague.
+> Welcome! This is the main repository for
+> submitting your team's solution for the Škoda Auto Hackathon at 42Prague.
 
 ## ⚠️ First Steps: Read the Guidelines & Get Data
 
